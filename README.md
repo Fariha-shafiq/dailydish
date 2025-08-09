@@ -16,7 +16,7 @@ Showcasing a welcoming hero section, interactive order modal, menu highlights, a
 ## 🖼️ Preview:
 
 
-![Preview](desktop-preview.png)
+![Preview](desktop-preview.PNG)
 
 
 
