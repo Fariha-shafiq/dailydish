@@ -4,14 +4,14 @@
 A modern and responsive **restaurant landing page** built with **HTML**, **CSS**, and **Bootstrap 5**:  
 Showcasing a welcoming hero section, interactive order modal, menu highlights, and contact form — all fully responsive for mobile, tablet, and desktop users.
 
----
+
 
 ## 🌐 Live Preview:
 
 🔗 **[View Website](https://yourusername.github.io/dailydish/)**  
 *(Replace with your actual GitHub Pages or hosting link)*
 
----
+
 
 ## 🖼️ Preview:
 
@@ -21,9 +21,7 @@ Showcasing a welcoming hero section, interactive order modal, menu highlights, a
 ### Mobile View:
 ![Mobile Preview](preview-mobile.png)
 
-*(Replace the above with actual screenshots from your project)*
 
----
 
 ## 📌 Features:
 
@@ -45,7 +43,7 @@ Showcasing a welcoming hero section, interactive order modal, menu highlights, a
 **Bootstrap 5**: Grid system, modal, navbar, and utility classes.  
 **JavaScript (Bootstrap Bundle)**: Navbar toggle & modal behavior.
 
----
+
 
 ## 📂 File Structure:
 
@@ -65,7 +63,7 @@ DailyDish/
 
 ````
 
----
+
 
 ## 🚀 How to Run Locally:
 
@@ -80,7 +78,5 @@ DailyDish/
    * Double-click `index.html` to open in your browser.
 ```
 
-## 📜 License:
 
-This project is **open-source** and available under the [MIT License](LICENSE).
 
