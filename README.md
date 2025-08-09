@@ -8,7 +8,7 @@ Showcasing a welcoming hero section, interactive order modal, menu highlights, a
 
 ## 🌐 Live Preview:
 
-🔗 **[View Website][(https://yourusername.github.io/dailydish/)](https://fariha-shafiq.github.io/dailydish/)**  
+🔗 **[View Website](https://fariha-shafiq.github.io/dailydish/)**  
 
 
 
