@@ -73,10 +73,10 @@ DailyDish/
 
 
 2. **Open in Browser**:
-
+ ```bash
    * Navigate to the project folder.
    * Double-click `index.html` to open in your browser.
-```
+
 
 
 
