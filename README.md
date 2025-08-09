@@ -76,5 +76,9 @@ DailyDish/
    * Double-click `index.html` to open in your browser.
 
 
+## 👩‍💻 Author
+**Fariha Shafiq**  
+📧 farihashafiq396@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/fariha-shafiq-01b81a210)
 
 
