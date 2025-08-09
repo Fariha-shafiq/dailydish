@@ -1,8 +1,4 @@
-Got it — here’s your **professional README** with colons instead of dashes for section headings and lists.
 
----
-
-```markdown
 # 🍽️ Daily Dish Restaurant Website
 
 A modern and responsive **restaurant landing page** built with **HTML**, **CSS**, and **Bootstrap 5**:  
