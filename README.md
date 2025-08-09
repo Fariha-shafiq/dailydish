@@ -72,13 +72,13 @@ DailyDish/
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/dailydish.git
-```
+
 
 2. **Open in Browser**:
 
    * Navigate to the project folder.
    * Double-click `index.html` to open in your browser.
-
+```
 ---
 
 ## 🎨 Customization:
