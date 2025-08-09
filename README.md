@@ -79,24 +79,6 @@ DailyDish/
    * Navigate to the project folder.
    * Double-click `index.html` to open in your browser.
 ```
----
-
-## 🎨 Customization:
-
-**Change Colors**: Edit the `<style>` section in `index.html`.
-**Replace Images**: Swap out `.jpg`/`.jpeg`/`.png` files with your own images.
-**Update Menu Items**: Edit the text & images inside the `#menu` section.
-**Contact Form Handling**: Replace `contact-form-handler.php` with your own backend handler.
-
----
-
-## 📱 Responsiveness:
-
-**Mobile**: Optimized using media queries & Bootstrap's responsive grid.
-**Tablet**: Adjusted typography & layout scaling.
-**Desktop**: Full-width sections with balanced padding and typography.
-
----
 
 ## 📜 License:
 
