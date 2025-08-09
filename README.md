@@ -2,24 +2,22 @@
 # 🍽️ Daily Dish Restaurant Website
 
 A modern and responsive **restaurant landing page** built with **HTML**, **CSS**, and **Bootstrap 5**:  
-Showcasing a welcoming hero section, interactive order modal, menu highlights, and contact form — all fully responsive for mobile, tablet, and desktop users.
+Showcasing a welcoming hero section, interactive order modal, menu highlights, and contact form , all fully responsive for mobile, tablet, and desktop users.
 
 
 
 ## 🌐 Live Preview:
 
-🔗 **[View Website](https://yourusername.github.io/dailydish/)**  
-*(Replace with your actual GitHub Pages or hosting link)*
+🔗 **[View Website][(https://yourusername.github.io/dailydish/)](https://fariha-shafiq.github.io/dailydish/)**  
+
 
 
 
 ## 🖼️ Preview:
 
-### Desktop View:
-![Desktop Preview](preview-desktop.png)
 
-### Mobile View:
-![Mobile Preview](preview-mobile.png)
+![Preview](desktop-preview.png)
+
 
 
 
